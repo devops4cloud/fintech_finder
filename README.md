@@ -20,7 +20,7 @@ The program is based on Python 3 and require the following libraries/packages to
 Ganache <br>
 Ganache is a personal blockchain for rapid Ethereum and Filecoin distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.
 
-Stremlit <br>
+Streamlit <br>
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our Community Cloud platform to deploy, manage, and share your app.
 
 
