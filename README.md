@@ -17,10 +17,10 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 The program is based on Python 3 and require the following libraries/packages to function
 
-Ganache
+Ganache <br>
 Ganache is a personal blockchain for rapid Ethereum and Filecoin distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment.
 
-Stremlit
+Stremlit <br>
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our Community Cloud platform to deploy, manage, and share your app.
 
 
@@ -40,6 +40,19 @@ $ cd fintech_finder
 $ streamlit run fintech_finder.py
 
 ```
+
+## Application Usage
+
+* Fintech Finder Application User Interface <br>
+    <img title="Application UI" alt="Alt text" src="/Images/fintech_ui.png"> <br>
+
+
+* Fintech Finder Ganache Wallet balance changes <br>
+    <img title="Ganache Wallets" alt="Alt text" src="/Images/fintech_wallets.png"> <br>
+
+
+* Fintech Finder Ganache Transactions
+    <img title="Ganache Transactions" alt="Alt text" src="/Images/fintech_transactions.png"> <br>
 
 
 
